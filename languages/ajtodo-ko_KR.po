@@ -1,0 +1,1614 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AJ Todo\n"
+"POT-Creation-Date: 2020-03-02 11:12+0900\n"
+"PO-Revision-Date: 2020-03-02 11:15+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: aj_todo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/admin.basic.php:25 admin/admin.role.php:16
+#: admin/admin.status.add.php:38 admin/admin.status.del.php:28
+#: admin/admin.status.list.php:2
+msgid "AJ TODO 설정"
+msgstr "AJ TODO 설정"
+
+#: admin/admin.basic.php:32
+msgid "할일 기본 설정 "
+msgstr "할일 기본 설정 "
+
+#: admin/admin.basic.php:37
+msgid "미완료 할일들 보기"
+msgstr "미완료 할일들 보기"
+
+#: admin/admin.basic.php:41
+msgid "완료된 할일들 보기"
+msgstr "완료된 할일들 보기"
+
+#: admin/admin.basic.php:45 skins/basic/js_templates.php:23
+msgid "전체 보기"
+msgstr "전체 보기"
+
+#: admin/admin.basic.php:49
+msgid "할일 생성시 자동 프로젝트 지정"
+msgstr "할일 생성시 자동 프로젝트 지정"
+
+#: admin/admin.basic.php:54
+msgid "현재 보이는 프로젝트에 자동으로 포함됩니다."
+msgstr "현재 보이는 프로젝트에 자동으로 포함됩니다."
+
+#: admin/admin.basic.php:58
+msgid "프로젝트 없음으로 등록"
+msgstr "프로젝트 없음으로 등록"
+
+#: admin/admin.basic.php:63
+msgid "프로젝트 메인 화면"
+msgstr "프로젝트 메인 화면"
+
+#: admin/admin.basic.php:68
+msgid "할일 목록 화면"
+msgstr "할일 목록 화면"
+
+#: admin/admin.basic.php:72
+msgid "플랜 화면"
+msgstr "플랜 화면"
+
+#: admin/admin.basic.php:76
+msgid "목록에서 할일 키 보여주기"
+msgstr "목록에서 할일 키 보여주기"
+
+#: admin/admin.basic.php:81 admin/admin.basic.php:94 admin/admin.basic.php:107
+msgid "예"
+msgstr "예"
+
+#: admin/admin.basic.php:85 admin/admin.basic.php:111
+msgid "아니오"
+msgstr "아니오"
+
+#: admin/admin.basic.php:89
+msgid "할일 뷰에서 할일 종료시 뷰 자동 닫기"
+msgstr "할일 뷰에서 할일 종료시 뷰 자동 닫기"
+
+#: admin/admin.basic.php:98
+msgid "그대로 남겨두기"
+msgstr "그대로 남겨두기"
+
+#: admin/admin.basic.php:102
+msgid "할일에 카테고리 보여주기"
+msgstr "할일에 카테고리 보여주기"
+
+#: admin/admin.basic.php:115
+msgid "할일 삭제시 한번더 확인하기"
+msgstr "할일 삭제시 한번더 확인하기"
+
+#: admin/admin.basic.php:120
+msgid "바로 삭제합니다."
+msgstr "바로 삭제합니다."
+
+#: admin/admin.basic.php:124
+msgid "삭제전에 한번더 물어봅니다."
+msgstr "삭제전에 한번더 물어봅니다."
+
+#: admin/admin.basic.php:128
+msgid "알림 유지시간"
+msgstr "알림 유지시간"
+
+#: admin/admin.basic.php:139 admin/admin.role.php:44
+#: admin/admin.status.add.php:71 core/ajtodo_projectcategory.php:166
+#: core/ajtodo_projectmember.php:265 core/ajtodo_projectmember.php:321
+#: core/ajtodo_projectrole.php:41 core/ajtodo_projectstatus.php:323
+#: core/ajtodo_projectstatus.php:341 core/ajtodo_projecttodotype.php:198
+msgid "변경 사항 적용"
+msgstr "변경 사항 적용"
+
+#: admin/admin.dashboard.php:5
+msgid "빠른 할일 등록"
+msgstr "빠른 할일 등록"
+
+#: admin/admin.dashboard.php:25
+msgid "할일을 입력해주세요."
+msgstr "할일을 입력해주세요."
+
+#: admin/admin.dashboard.php:27 skins/basic/js_templates.php:20
+msgid "프로젝트 없음"
+msgstr "프로젝트 없음"
+
+#: admin/admin.dashboard.php:32
+msgid "할일 등록하기"
+msgstr "할일 등록하기"
+
+#: admin/admin.meta.box.php:69
+msgid "프로젝트 링크"
+msgstr "프로젝트 링크"
+
+#: admin/admin.meta.box.php:115
+msgid "링크 타입"
+msgstr "링크 타입"
+
+#: admin/admin.meta.box.php:118
+msgid "현재 프로젝트"
+msgstr "현재 프로젝트"
+
+#: admin/admin.meta.box.php:119 admin/admin.team.plan.menu.php:20
+#: admin/admin.team.plan.menu.php:27 admin/admin.team.project.menu.php:63
+#: admin/admin.team.project.menu.php:70 core/ajtodo_projectplan.php:57
+#: core/ajtodo_projectrole.php:29 inc/ajtodo_doc_table.php:127
+#: inc/ajtodo_doc_table.php:130 skins/basic/js_templates.php:82
+#: templates/view_todo.php:67
+msgid "플랜"
+msgstr "플랜"
+
+#: admin/admin.meta.box.php:120 admin/admin.team.plan.menu.php:14
+#: admin/admin.team.plan.menu.php:33 admin/admin.team.project.menu.php:57
+#: admin/admin.team.project.menu.php:76 admin/ajtodo_admin_todo.php:114
+#: core/ajtodo_default.php:60 core/ajtodo_projectrole.php:33
+#: inc/ajtodo_js.php:12 inc/ajtodo_status_table.php:104
+msgid "할일"
+msgstr "할일"
+
+#: admin/admin.meta.box.php:124
+msgid "플랜 선택"
+msgstr "플랜 선택"
+
+#: admin/admin.meta.box.php:130 admin/admin.meta.box.php:233
+#: core/ajtodo_projectplan.php:298 inc/ajtodo_js.php:10
+#: skins/basic/js_templates.php:6 templates/view_todo.php:73
+msgid "플랜 없음"
+msgstr "플랜 없음"
+
+#: admin/admin.meta.box.php:142
+msgid "할일 선택"
+msgstr "할일 선택"
+
+#: admin/admin.posttype.php:4
+msgctxt "Post type general name"
+msgid "프로젝트 문서"
+msgstr "프로젝트 문서"
+
+#: admin/admin.posttype.php:5
+msgctxt "Post type singular name"
+msgid "프로젝트 문서"
+msgstr "프로젝트 문서"
+
+#: admin/admin.posttype.php:6
+msgctxt "Admin Menu text"
+msgid "프로젝트 문서"
+msgstr "프로젝트 문서"
+
+#: admin/admin.posttype.php:7
+msgctxt "Add New on Toolbar"
+msgid "프로젝트 문서"
+msgstr "프로젝트 문서"
+
+#: admin/admin.posttype.php:8 admin/admin.posttype.php:10
+#: admin/ajtodo_admin_project_team.php:34
+msgid "새 문서"
+msgstr "새 문서"
+
+#: admin/admin.posttype.php:9
+msgid "새 프로젝트 문서"
+msgstr "새 프로젝트 문서"
+
+#: admin/admin.posttype.php:11
+msgid "문서 수정"
+msgstr "문서 수정"
+
+#: admin/admin.posttype.php:12
+msgid "문서 보기"
+msgstr "문서 보기"
+
+#: admin/admin.posttype.php:13
+msgid "모든 프로젝트 문서"
+msgstr "모든 프로젝트 문서"
+
+#: admin/admin.posttype.php:14
+msgid "문서 검색"
+msgstr "문서 검색"
+
+#: admin/admin.posttype.php:15
+msgid "상위 문서:"
+msgstr "상위 문서:"
+
+#: admin/admin.posttype.php:16
+msgid "문서가 없습니다."
+msgstr "문서가 없습니다."
+
+#: admin/admin.posttype.php:17
+msgid "휴지통에 문서가 없습니다."
+msgstr "휴지통에 문서가 없습니다."
+
+#: admin/admin.posttype.php:18
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter books list"
+msgstr "Filter books list"
+
+#: admin/admin.posttype.php:19
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Books list navigation"
+msgstr "Books list navigation"
+
+#: admin/admin.posttype.php:20
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Books list"
+msgstr "Books list"
+
+#: admin/admin.posttype.php:68
+msgctxt "프로젝트"
+msgid "프로젝트"
+msgstr "프로젝트"
+
+#: admin/admin.role.php:21
+msgid "이 권한 설정은 Administrator만 접근이 가능합니다."
+msgstr "이 권한 설정은 Administrator만 접근이 가능합니다."
+
+#: admin/admin.role.php:22
+msgid "프로젝트 권한은 프로젝트별로 설정됩니다."
+msgstr "프로젝트 권한은 프로젝트별로 설정됩니다."
+
+#: admin/admin.role.php:26 core/ajtodo_project.php:244
+msgid "팀 프로젝트"
+msgstr "팀 프로젝트"
+
+#: admin/admin.role.php:30 core/ajtodo_projectmember.php:258
+msgid "역할 이름"
+msgstr "역할 이름"
+
+#: admin/admin.status.add.php:46 core/ajtodo_projectstatus.php:316
+#: core/ajtodo_projectstatus.php:415 inc/ajtodo_status_table.php:41
+msgid "상태 이름"
+msgstr "상태 이름"
+
+#: admin/admin.status.add.php:52 inc/ajtodo_status_table.php:43
+msgid "상태 종류"
+msgstr "상태 종류"
+
+#: admin/admin.status.add.php:54 core/ajtodo_default.php:75
+#: core/ajtodo_project.php:986 core/ajtodo_projectplan.php:228
+#: inc/ajtodo_js.php:13 inc/ajtodo_status_table.php:106
+#: skins/basic/js_templates.php:7
+msgid "진행중"
+msgstr "진행중"
+
+#: admin/admin.status.add.php:57
+msgid "상태종류는 변경할 수 없습니다."
+msgstr "상태종류는 변경할 수 없습니다."
+
+#: admin/admin.status.add.php:59
+msgid "상태는 진행중 상태만 생성할 수 있습니다."
+msgstr "상태는 진행중 상태만 생성할 수 있습니다."
+
+#: admin/admin.status.add.php:65 inc/ajtodo_status_table.php:42
+msgid "상태 설명"
+msgstr "상태 설명"
+
+#: admin/admin.status.add.php:73
+msgid "할일 상태 생성"
+msgstr "할일 상태 생성"
+
+#: admin/admin.status.add.php:75 admin/admin.status.del.php:71
+#: core/ajtodo_projectcategory.php:236 core/ajtodo_projectplan.php:647
+#: core/ajtodo_projectplan.php:670 core/ajtodo_projectstatus.php:434
+#: core/ajtodo_projecttodotype.php:285 skins/basic/views.php:123
+#: skins/basic/views.php:138
+msgid "취소"
+msgstr "취소"
+
+#: admin/admin.status.del.php:36
+msgid "주의!"
+msgstr "주의!"
+
+#: admin/admin.status.del.php:38
+msgid "상태 삭제는 모든 사용자의 할일에 영향을 줍니다."
+msgstr "상태 삭제는 모든 사용자의 할일에 영향을 줍니다."
+
+#: admin/admin.status.del.php:39
+msgid "해당 상태인 할일이 존재하는 경우, 지정한 상태로 일괄 변경됩니다."
+msgstr "해당 상태인 할일이 존재하는 경우, 지정한 상태로 일괄 변경됩니다."
+
+#: admin/admin.status.del.php:42
+msgid "이 작업은 즉시 이루어집니다. 되돌릴 수 없습니다."
+msgstr "이 작업은 즉시 이루어집니다. 되돌릴 수 없습니다."
+
+#: admin/admin.status.del.php:45
+msgid "삭제 하려는 상태"
+msgstr "삭제 하려는 상태"
+
+#: admin/admin.status.del.php:56
+msgid "선택된 상태로 모두 변경"
+msgstr "선택된 상태로 모두 변경"
+
+#: admin/admin.status.del.php:70 core/ajtodo_projectstatus.php:326
+msgid "상태 삭제"
+msgstr "상태 삭제"
+
+#: admin/admin.status.list.php:3
+msgid "할일 상태 만들기"
+msgstr "할일 상태 만들기"
+
+#: admin/admin.tab.menu.php:2
+msgid "기본 설정"
+msgstr "기본 설정"
+
+#: admin/admin.tab.menu.php:3
+msgid "이슈상태"
+msgstr "이슈상태"
+
+#: admin/admin.tab.menu.php:4 admin/admin.team.plan.menu.php:65
+#: admin/admin.team.project.menu.php:115 admin/admin.team.project.menu.php:125
+#: core/ajtodo_default.php:8
+msgid "권한 설정"
+msgstr "권한 설정"
+
+#: admin/admin.team.plan.menu.php:6 admin/admin.team.project.menu.php:6
+msgid "대시보드"
+msgstr "대시보드"
+
+#: admin/admin.team.plan.menu.php:40 admin/admin.team.project.menu.php:98
+#: admin/admin.team.project.menu.php:113 core/ajtodo_projectplan.php:63
+#: skins/basic/js_templates.php:88 templates/view_todo.php:81
+msgid "카테고리"
+msgstr "카테고리"
+
+#: admin/admin.team.plan.menu.php:46 admin/admin.team.project.menu.php:104
+#: admin/admin.team.project.menu.php:114 core/ajtodo_projecttodotype.php:36
+#: skins/basic/js_templates.php:22
+msgid "할일 타입"
+msgstr "할일 타입"
+
+#: admin/admin.team.plan.menu.php:53 admin/admin.team.project.menu.php:116
+msgid "상태 설정"
+msgstr "상태 설정"
+
+#: admin/admin.team.plan.menu.php:59
+msgid "프로젝트 멤버"
+msgstr "프로젝트"
+
+#: admin/admin.team.plan.menu.php:72 admin/admin.team.project.menu.php:110
+#: admin/admin.team.project.menu.php:118 core/ajtodo_projectcategory.php:67
+#: core/ajtodo_projectmember.php:75 core/ajtodo_projectplan.php:438
+#: core/ajtodo_projectplan.php:466 core/ajtodo_projectstatus.php:79
+#: core/ajtodo_projecttodotype.php:82 inc/ajtodo_status_table.php:46
+#: skins/basic/js_templates.php:25 skins/basic/views.php:13
+#: skins/basic/views.php:40
+msgid "관리"
+msgstr "관리"
+
+#: admin/admin.team.project.menu.php:11 admin/admin.team.project.menu.php:15
+msgid "보드"
+msgstr "보드"
+
+#: admin/admin.team.project.menu.php:84 core/ajtodo_projectrole.php:37
+msgid "문서"
+msgstr "문서"
+
+#: admin/admin.team.project.menu.php:90
+msgid "리포트"
+msgstr "리포트"
+
+#: admin/admin.team.project.menu.php:112 core/ajtodo_projectlist.php:83
+#: core/ajtodo_projectmember.php:73
+msgid "멤버"
+msgstr "멤버"
+
+#: admin/ajtodo_admin_project_private.php:42
+#: admin/ajtodo_admin_project_private.php:64
+#: admin/ajtodo_admin_project_private.php:72 inc/ajtodo_admin.php:4
+#: inc/ajtodo_doc_table.php:133 skins/basic/js_templates.php:19
+msgid "프로젝트"
+msgstr "프로젝트"
+
+#: admin/ajtodo_admin_project_private.php:52
+msgid "프로젝트 활성화 완료"
+msgstr "프로젝트 활성화 완료"
+
+#: admin/ajtodo_admin_project_private.php:55
+msgid "프로젝트 활성화 처리에 실패하였습니다."
+msgstr "프로젝트 활성화 처리에 실패하였습니다."
+
+#: admin/ajtodo_admin_project_private.php:87 core/ajtodo_project.php:301
+msgid "프로젝트 생성"
+msgstr "프로젝트 생성"
+
+#: admin/ajtodo_admin_project_private.php:89 core/ajtodo_project.php:301
+msgid "프로젝트 수정"
+msgstr "프로젝트 수정"
+
+#: admin/ajtodo_admin_project_private.php:98
+#: admin/ajtodo_admin_project_team.todo.php:215 admin/ajtodo_admin_todo.php:297
+msgid "비정상적인 접근입니다."
+msgstr "비정상적인 접근입니다."
+
+#: admin/ajtodo_admin_project_private.php:130
+msgid "프로젝트 완료"
+msgstr "프로젝트 완료"
+
+#: admin/ajtodo_admin_project_private.php:133
+msgid "프로젝트 완료 처리에 실패하였습니다."
+msgstr "프로젝트 완료 처리에 실패하였습니다."
+
+#: admin/ajtodo_admin_project_private.php:146
+#: admin/ajtodo_admin_project_private.php:175
+msgid "프로젝트 생성완료"
+msgstr "프로젝트 생성완료"
+
+#: admin/ajtodo_admin_project_private.php:156
+msgid "프로젝트 삭제완료"
+msgstr "프로젝트 삭제완료"
+
+#: admin/ajtodo_admin_project_private.php:159
+msgid "프로젝트 삭제에 실패하였습니다."
+msgstr "프로젝트 삭제에 실패하였습니다."
+
+#: admin/ajtodo_admin_project_private.php:178
+msgid "프로젝트 생성에 실패하였습니다."
+msgstr "프로젝트 생성에 실패하였습니다."
+
+#: admin/ajtodo_admin_project_private.php:196
+msgid "프로젝트 수정완료"
+msgstr "프로젝트 수정완료"
+
+#: admin/ajtodo_admin_project_private.php:199
+msgid "프로젝트 수정에 실패하였습니다."
+msgstr "프로젝트 수정에 실패하였습니다."
+
+#: admin/ajtodo_admin_project_team.category.php:51
+msgid "카테고리 생성에 실패했습니다."
+msgstr "프로젝트 생성에 실패하였습니다."
+
+#: admin/ajtodo_admin_project_team.member.php:33
+#: admin/ajtodo_admin_project_team.member.php:40
+msgid "역할 생성에 실패했습니다."
+msgstr "역할 생성에 실패했습니다."
+
+#: admin/ajtodo_admin_project_team.plan.php:90
+#: admin/ajtodo_admin_project_team.plan.php:142
+#: admin/ajtodo_admin_project_team.todo.php:86
+msgid "변경 사항 저장"
+msgstr "변경 사항 저장"
+
+#: admin/ajtodo_admin_project_team.plan.php:155
+#: core/ajtodo_project_todolist.php:64
+msgid "할일이 없네요. 프로젝트에 할일을 등록해보세요."
+msgstr "할일이 없네요. 프로젝트에 할일을 등록해보세요."
+
+#: admin/ajtodo_admin_project_team.plan.php:186
+#: admin/ajtodo_admin_project_team.plan.php:215
+msgid "플랜 생성에 실패했습니다."
+msgstr "플랜 생성에 실패했습니다."
+
+#: admin/ajtodo_admin_project_team.plan.php:233
+#: admin/ajtodo_admin_project_team.todo.php:113 admin/ajtodo_admin_todo.php:143
+msgid "할일 목록을 가져오는데 문제가 발생했습니다."
+msgstr "할일 목록을 가져오는데 문제가 발생했습니다."
+
+#: admin/ajtodo_admin_project_team.roleperm.php:8
+msgid "잘못된 경로에서의 접근입니다."
+msgstr "잘못된 경로에서의 접근입니다."
+
+#: admin/ajtodo_admin_project_team.roleperm.php:14
+msgid "처리중에 문제가 발생했습니다."
+msgstr "처리중에 문제가 발생했습니다."
+
+#: admin/ajtodo_admin_project_team.status.php:53
+msgid "상태 생성에 실패했습니다."
+msgstr "상태 생성에 실패했습니다."
+
+#: admin/ajtodo_admin_project_team.todotype.php:50
+msgid "할일 타입 생성에 실패했습니다."
+msgstr "할일 타입 생성에 실패했습니다."
+
+#: admin/ajtodo_admin_todo.php:100
+msgid "안녕하세요!"
+msgstr "안녕하세요!"
+
+#: admin/ajtodo_admin_todo.php:101
+msgid "할일들을 체계적으로 관리해보세요~<br/>먼저 해야할 일들을 등록해보세요."
+msgstr "할일들을 체계적으로 관리해보세요~<br/>먼저 해야할 일들을 등록해보세요."
+
+#: admin/ajtodo_admin_todo.php:115
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: core/ajtodo_default.php:5
+msgid "대시보드 열람"
+msgstr "대시보드 열람"
+
+#: core/ajtodo_default.php:5
+msgid "대시보드를 볼 수 있는 권한입니다. "
+msgstr "대시보드를 볼 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:6
+msgid "카테고리 관리"
+msgstr "카테고리 관리"
+
+#: core/ajtodo_default.php:6
+msgid "할일 범주를 관리할 수 있는 권한입니다. "
+msgstr "할일 범주를 관리할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:7 core/ajtodo_projectstatus.php:98
+msgid "상태 관리"
+msgstr "상태 관리"
+
+#: core/ajtodo_default.php:7
+msgid "상태를 관리할 수 있는 권한입니다. "
+msgstr "상태를 관리할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:8
+msgid "프로젝트 권한을 설정할 수 있는 권한입니다. "
+msgstr "프로젝트 권한을 설정할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:9
+msgid "사용자 역할 설정"
+msgstr "사용자 역할 설정"
+
+#: core/ajtodo_default.php:9
+msgid "사용자의 역할을 설정할 수 있는 권한입니다. "
+msgstr "사용자의 역할을 설정할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:10
+msgid "멤버 추가"
+msgstr "멤버 추가"
+
+#: core/ajtodo_default.php:10
+msgid "멤버를 추가할 수  있는 권한입니다. "
+msgstr "멤버를 추가할 수  있는 권한입니다. "
+
+#: core/ajtodo_default.php:11
+msgid "멤버 관리"
+msgstr "멤버 관리"
+
+#: core/ajtodo_default.php:11
+msgid "프로젝트 멤버를 관리할 수 있는 권한입니다. "
+msgstr "프로젝트 멤버를 관리할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:12
+msgid "프로젝트 종료"
+msgstr "프로젝트 종료"
+
+#: core/ajtodo_default.php:12
+msgid "프로젝트를 종료할 수 있는 권한입니다. "
+msgstr "프로젝트를 종료할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:13
+msgid "프로젝트 삭제"
+msgstr "프로젝트 삭제"
+
+#: core/ajtodo_default.php:13
+msgid "프로젝트를 삭제할 수 있는 권한입니다. "
+msgstr "프로젝트를 삭제할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:18 core/ajtodo_projectplan.php:167
+msgid "플랜 만들기"
+msgstr "플랜 만들기"
+
+#: core/ajtodo_default.php:18
+msgid "플랜을 만들고 관리할 수 있는 권한입니다. "
+msgstr "플랜을 만들고 관리할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:19 core/ajtodo_project.php:778
+msgid "플랜 관리"
+msgstr "관리"
+
+#: core/ajtodo_default.php:19
+msgid "플랜의 상태 변경/할일 설정을 할 수 있는 권한입니다. "
+msgstr "플랜의 상태 변경/할일 설정을 할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:24
+msgid "할일 만들기"
+msgstr "할일 만들기"
+
+#: core/ajtodo_default.php:24
+msgid "할일을 만들 수 있는 권한입니다. "
+msgstr "할일을 만들 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:25
+msgid "할일 삭제"
+msgstr "할일 삭제"
+
+#: core/ajtodo_default.php:25
+msgid "할일을 삭제 수 있는 권한입니다. "
+msgstr "할일을 삭제 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:26
+msgid "할일 수정"
+msgstr "수정"
+
+#: core/ajtodo_default.php:26
+msgid "할일을 수정할 수 있는 권한입니다. "
+msgstr "할일을 수정할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:27
+msgid "할일 상태 변경"
+msgstr "할일 상태 변경"
+
+#: core/ajtodo_default.php:27
+msgid "할일의 상태를 변경할 수 있는 권한입니다. "
+msgstr "할일의 상태를 변경할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:28
+msgid "할일 프로젝트 이동"
+msgstr "할일 프로젝트 이동"
+
+#: core/ajtodo_default.php:28
+msgid "할일의 프로젝트를 변경할 수 있는 권한입니다. "
+msgstr "할일의 프로젝트를 변경할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:29
+msgid "할일 목록 보기"
+msgstr "할일 목록 보기"
+
+#: core/ajtodo_default.php:29
+msgid "할일 목록을 볼 수 있는 권한입니다. "
+msgstr "할일 목록을 볼 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:34 skins/basic/js_templates.php:5
+msgid "문서 작성"
+msgstr "문서 작성"
+
+#: core/ajtodo_default.php:34
+msgid "문서를 작성/편집할 수 있는 권한입니다. "
+msgstr "문서를 작성/편집할 수 있는 권한입니다. "
+
+#: core/ajtodo_default.php:40
+msgid "작업"
+msgstr "작업"
+
+#: core/ajtodo_default.php:41
+msgid "버그"
+msgstr "버그"
+
+#: core/ajtodo_default.php:42
+msgid "개선"
+msgstr "개선"
+
+#: core/ajtodo_default.php:51 core/ajtodo_projectmember.php:13
+msgid "관리자"
+msgstr "관리자"
+
+#: core/ajtodo_default.php:52 core/ajtodo_projectmember.php:14
+msgid "매니저"
+msgstr "매니저"
+
+#: core/ajtodo_default.php:53 core/ajtodo_projectmember.php:15
+msgid "사용자"
+msgstr "사용자"
+
+#: core/ajtodo_default.php:90 inc/ajtodo_js.php:14
+msgid "종료"
+msgstr "종료"
+
+#: core/ajtodo_lan.php:2
+msgid "프로젝트를 삭제하시겠습니까?"
+msgstr "프로젝트를 삭제하시겠습니까?"
+
+#: core/ajtodo_project.php:169 core/ajtodo_project.php:592
+#: core/ajtodo_project.php:614 core/ajtodo_todo.php:229
+#: core/ajtodo_todo.php:332 core/ajtodo_todo.php:366 skins/basic/alert.php:3
+msgid "권한이 없습니다."
+msgstr "권한이 없습니다."
+
+#: core/ajtodo_project.php:181 core/ajtodo_project.php:190
+msgid "프로젝트 고유키"
+msgstr "프로젝트 고유키"
+
+#: core/ajtodo_project.php:200 core/ajtodo_project.php:205
+#: core/ajtodo_project.php:211 core/ajtodo_project.php:217
+#: core/ajtodo_projectlist.php:80 skins/basic/views.php:113
+#: skins/basic/views.php:127
+msgid "프로젝트 이름"
+msgstr "프로젝트 이름"
+
+#: core/ajtodo_project.php:224
+msgid "프로젝트 타입"
+msgstr "프로젝트 타입"
+
+#: core/ajtodo_project.php:233
+msgid "개인 프로젝트"
+msgstr "개인 프로젝트"
+
+#: core/ajtodo_project.php:260
+msgid "자동 담당자 지정"
+msgstr "자동 담당자 지정"
+
+#: core/ajtodo_project.php:268
+msgid "할일 작성자가 자동으로 담당자가 됩니다"
+msgstr "할일 작성자가 자동으로 담당자가 됩니다"
+
+#: core/ajtodo_project.php:280 core/ajtodo_project.php:288
+msgid "프로젝트 설명"
+msgstr "프로젝트 설명"
+
+#: core/ajtodo_project.php:307 core/ajtodo_project.php:320
+msgid "프로젝트 활성화하기"
+msgstr "프로젝트 활성화하기"
+
+#: core/ajtodo_project.php:309
+msgid "프로젝트 완료하기"
+msgstr "프로젝트 완료하기"
+
+#: core/ajtodo_project.php:314 core/ajtodo_project.php:324
+msgid "프로젝트 삭제하기"
+msgstr "프로젝트 삭제하기"
+
+#: core/ajtodo_project.php:466
+msgid "프로젝트 키를 등록해주시기 바랍니다."
+msgstr "프로젝트 키를 등록해주시기 바랍니다."
+
+#: core/ajtodo_project.php:470
+msgid "프로젝트 키가 중복됩니다. "
+msgstr "프로젝트 키가 중복됩니다. "
+
+#: core/ajtodo_project.php:510
+msgid "프로젝트 생성중에 문제가 발생했습니다. "
+msgstr "프로젝트 생성중에 문제가 발생했습니다. "
+
+#: core/ajtodo_project.php:595 core/ajtodo_project.php:617
+msgid "잘못된 접근입니다."
+msgstr "잘못된 접근입니다."
+
+#: core/ajtodo_project.php:742 core/ajtodo_project.php:764
+#: core/ajtodo_projectlist.php:82 inc/ajtodo_doc_table.php:35
+#: skins/basic/js_templates.php:29 skins/basic/views.php:10
+#: skins/basic/views.php:37 skins/basic/views.php:72
+msgid "전체"
+msgstr "전체"
+
+#: core/ajtodo_project.php:777
+msgid "플랜 뷰"
+msgstr "플랜 뷰"
+
+#: core/ajtodo_project.php:793
+msgid "최근 문서"
+msgstr "최근 문서"
+
+#: core/ajtodo_project.php:795
+msgid "문서 추가"
+msgstr "문서 추가"
+
+#: core/ajtodo_project.php:807
+msgid "문서 없음"
+msgstr "프로젝트 없음"
+
+#: core/ajtodo_project.php:835
+msgid "할일 타입별 할일 현황"
+msgstr "할일 타입별 할일 현황"
+
+#: core/ajtodo_project.php:875
+msgid "카테고리별 할일 현황"
+msgstr "카테고리별 할일 현황"
+
+#: core/ajtodo_project.php:898 templates/view_todo.php:87
+msgid "카테고리 없음"
+msgstr "카테고리 없음"
+
+#: core/ajtodo_project.php:919
+msgid "멤버별 할일처리 현황"
+msgstr "멤버별 할일처리 현황"
+
+#: core/ajtodo_project.php:939 skins/basic/js_templates.php:16
+msgid "담당자 없음"
+msgstr "담당자 없음"
+
+#: core/ajtodo_project.php:959
+msgid "일별 완료개수"
+msgstr "일별 완료개수"
+
+#: core/ajtodo_project.php:984
+msgid "플랜 요약"
+msgstr "플랜 요약"
+
+#: core/ajtodo_project.php:988
+msgid "완료됨"
+msgstr "완료됨"
+
+#: core/ajtodo_project.php:991
+msgid "프로젝트 요약"
+msgstr "프로젝트 요약"
+
+#: core/ajtodo_project.php:998 core/ajtodo_projectplan.php:238
+#: core/ajtodo_projectplan.php:429 core/ajtodo_projectplan.php:516
+#: core/ajtodo_projectplan.php:550
+msgid "시작일"
+msgstr "시작일"
+
+#: core/ajtodo_project.php:1000 core/ajtodo_projectplan.php:240
+#: core/ajtodo_projectplan.php:432 core/ajtodo_projectplan.php:436
+#: core/ajtodo_projectplan.php:558 skins/basic/js_templates.php:12
+msgid "완료일"
+msgstr "완료일"
+
+#: core/ajtodo_project.php:1000 core/ajtodo_project.php:1002
+#: core/ajtodo_projectplan.php:240 core/ajtodo_projectplan.php:242
+msgid "목표일"
+msgstr "목표일"
+
+#: core/ajtodo_project_todolist.php:102 core/ajtodo_projectplan.php:94
+#: skins/basic/views.php:47
+msgid "할일을 입력해보세요."
+msgstr "할일을 입력해보세요."
+
+#: core/ajtodo_project_todolist.php:112
+msgid "완료된 일들"
+msgstr "완료된 일들"
+
+#: core/ajtodo_projectcategory.php:11 core/ajtodo_projectmember.php:33
+#: core/ajtodo_projectrole.php:13 core/ajtodo_projecttodotype.php:26
+msgid "역할은 '프로젝트 멤버' 탭에서 생성할 수 있습니다."
+msgstr "역할은 '프로젝트 멤버' 탭에서 생성할 수 있습니다."
+
+#: core/ajtodo_projectcategory.php:21
+msgid "할일 카테고리"
+msgstr "할일 카테고리"
+
+#: core/ajtodo_projectcategory.php:24
+msgid "카테고리 추가"
+msgstr "카테고리 추가"
+
+#: core/ajtodo_projectcategory.php:63 core/ajtodo_projectcategory.php:139
+#: core/ajtodo_projectcategory.php:227
+msgid "카테고리 이름"
+msgstr "카테고리 이름"
+
+#: core/ajtodo_projectcategory.php:64 core/ajtodo_projectplan.php:231
+#: core/ajtodo_projecttodotype.php:79 inc/ajtodo_status_table.php:44
+msgid "할일 개수"
+msgstr "할일 개수"
+
+#: core/ajtodo_projectcategory.php:65 core/ajtodo_projectcategory.php:147
+msgid "기본 담당자"
+msgstr "기본 담당자"
+
+#: core/ajtodo_projectcategory.php:82 skins/basic/js_templates.php:13
+#: skins/basic/js_templates.php:14
+msgid "지정 안됨"
+msgstr "지정 안됨"
+
+#: core/ajtodo_projectcategory.php:88 core/ajtodo_projecttodotype.php:96
+#: inc/ajtodo_doc_table.php:106 inc/ajtodo_status_table.php:63
+#: skins/basic/views.php:28
+msgid "수정"
+msgstr "수정"
+
+#: core/ajtodo_projectcategory.php:89 core/ajtodo_projectmember.php:268
+#: core/ajtodo_projecttodotype.php:98 inc/ajtodo_js.php:9
+#: inc/ajtodo_status_table.php:65 skins/basic/js_templates.php:17
+#: skins/basic/views.php:91
+msgid "삭제"
+msgstr "삭제"
+
+#: core/ajtodo_projectcategory.php:96
+msgid "카테고리가 없습니다."
+msgstr "카테고리가 없습니다."
+
+#: core/ajtodo_projectcategory.php:124
+msgid "카테고리 Key"
+msgstr "카테고리 Key"
+
+#: core/ajtodo_projectcategory.php:133 core/ajtodo_projectmember.php:252
+#: core/ajtodo_projectstatus.php:288
+msgid "10자 이내의 영문자와 숫자만 가능합니다."
+msgstr "10자 이내의 영문자와 숫자만 가능합니다."
+
+#: core/ajtodo_projectcategory.php:151 core/ajtodo_projectcategory.php:156
+msgid "지정 안함"
+msgstr "지정 안함"
+
+#: core/ajtodo_projectcategory.php:162
+msgid "이 카테고리에 등록될 경우, 자동으로 담당자에게 할일이 지정됩니다."
+msgstr "이 카테고리에 등록될 경우, 자동으로 담당자에게 할일이 지정됩니다."
+
+#: core/ajtodo_projectcategory.php:167
+msgid "카테고리 목록"
+msgstr "카테고리 목록"
+
+#: core/ajtodo_projectcategory.php:181
+msgid "카테고리 키가 중복됩니다. "
+msgstr "카테고리 키가 중복됩니다. "
+
+#: core/ajtodo_projectcategory.php:228
+msgid "이 카테고리를 삭제하시겠습니까?"
+msgstr "이 카테고리를 삭제하시겠습니까?"
+
+#: core/ajtodo_projectcategory.php:230 core/ajtodo_projectplan.php:642
+#: core/ajtodo_projectplan.php:664 core/ajtodo_projecttodotype.php:279
+#: skins/basic/views.php:116 skins/basic/views.php:130
+msgid "총 할일 개수"
+msgstr "총 할일 개수"
+
+#: core/ajtodo_projectcategory.php:232
+msgid "카테고리에 존재하는 할일들은 모두 '카테고리 없음'이 됩니다."
+msgstr "카테고리에 존재하는 할일들은 모두 '카테고리 없음'이 됩니다."
+
+#: core/ajtodo_projectcategory.php:233
+msgid "카테고리에 포함된 할일이 삭제되는 것은 아닙니다."
+msgstr "카테고리에 포함된 할일이 삭제되는 것은 아닙니다."
+
+#: core/ajtodo_projectcategory.php:235 core/ajtodo_projectplan.php:669
+#: core/ajtodo_projectstatus.php:433 core/ajtodo_projecttodotype.php:284
+#: skins/basic/views.php:122
+msgid "예, 삭제합니다."
+msgstr "예, 삭제합니다."
+
+#: core/ajtodo_projectlist.php:64
+msgid "완료된 팀 프로젝트"
+msgstr "완료된 프로젝트"
+
+#: core/ajtodo_projectlist.php:66
+msgid "진행중인 팀 프로젝트"
+msgstr "진행중인 팀 프로젝트"
+
+#: core/ajtodo_projectlist.php:70
+msgid "완료된 개인 프로젝트"
+msgstr "완료된 개인 프로젝트"
+
+#: core/ajtodo_projectlist.php:72
+msgid "진행중인 개인  프로젝트"
+msgstr "진행중인 개인  프로젝트"
+
+#: core/ajtodo_projectlist.php:79
+msgid "프로젝트 키"
+msgstr "프로젝트 키"
+
+#: core/ajtodo_projectlist.php:81 skins/basic/views.php:9
+#: skins/basic/views.php:36
+msgid "진행상황"
+msgstr "진행상황"
+
+#: core/ajtodo_projectlist.php:82 inc/ajtodo_status_table.php:108
+#: skins/basic/js_templates.php:28 skins/basic/views.php:10
+#: skins/basic/views.php:37
+msgid "완료"
+msgstr "완료"
+
+#: core/ajtodo_projectmember.php:45
+msgid "프로젝트 역할/멤버"
+msgstr "프로젝트 역할/멤버"
+
+#: core/ajtodo_projectmember.php:48 core/ajtodo_projectstatus.php:356
+msgid "역할 추가"
+msgstr "역할 추가"
+
+#: core/ajtodo_projectmember.php:72 core/ajtodo_projectmember.php:294
+msgid "역할"
+msgstr "역할"
+
+#: core/ajtodo_projectmember.php:93
+msgid "사용자 추가"
+msgstr "사용자 추가"
+
+#: core/ajtodo_projectmember.php:96
+msgid "역할 관리"
+msgstr "역할 관리"
+
+#: core/ajtodo_projectmember.php:159
+msgid "역할 키가 중복됩니다. "
+msgstr "역할 키가 중복됩니다. "
+
+#: core/ajtodo_projectmember.php:234
+msgid "프로젝트 역할 수정"
+msgstr "프로젝트 역할 수정"
+
+#: core/ajtodo_projectmember.php:236
+msgid "프로젝트 역할 추가"
+msgstr "프로젝트 역할 추가"
+
+#: core/ajtodo_projectmember.php:243
+msgid "역할 Key"
+msgstr "역할 Key"
+
+#: core/ajtodo_projectmember.php:270 core/ajtodo_projectmember.php:322
+msgid "멤버 목록"
+msgstr "멤버 목록"
+
+#: core/ajtodo_projectmember.php:287
+msgid "프로젝트 사용자 역할 관리"
+msgstr "프로젝트 사용자 역할 관리"
+
+#: core/ajtodo_projectmember.php:299
+msgid "추가할 사용자"
+msgstr "추가할 사용자"
+
+#: core/ajtodo_projectmember.php:307 core/ajtodo_projectstatus.php:373
+msgid "추가"
+msgstr "추가"
+
+#: core/ajtodo_projectmember.php:313
+msgid "추가된 사용자"
+msgstr "추가된 사용자"
+
+#: core/ajtodo_projectplan.php:31 skins/basic/js_templates.php:59
+msgid "닫기"
+msgstr "닫기"
+
+#: core/ajtodo_projectplan.php:45 skins/basic/js_templates.php:70
+#: templates/view_todo.php:29
+msgid "담당자"
+msgstr "담당자"
+
+#: core/ajtodo_projectplan.php:51 inc/ajtodo_doc_table.php:69
+#: skins/basic/js_templates.php:76 templates/view_todo.php:48
+msgid "작성자"
+msgstr "작성자"
+
+#: core/ajtodo_projectplan.php:69 skins/basic/js_templates.php:94
+#: templates/view_todo.php:95
+msgid "이슈 타입"
+msgstr "이슈 타입"
+
+#: core/ajtodo_projectplan.php:90
+msgid "할일 추가"
+msgstr "할일 타입 추가"
+
+#: core/ajtodo_projectplan.php:174 skins/basic/js_templates.php:26
+msgid "완료된 플랜 제외"
+msgstr "완료된 플랜 제외"
+
+#: core/ajtodo_projectplan.php:203
+msgid "진행중/진행예정 플랜"
+msgstr "진행중/진행예정 플랜"
+
+#: core/ajtodo_projectplan.php:207
+msgid "완료된 플랜"
+msgstr "완료된 플랜"
+
+#: core/ajtodo_projectplan.php:246
+msgid "플랜 목표"
+msgstr "플랜 목표"
+
+#: core/ajtodo_projectplan.php:271
+msgid "진행중인 플랜이 존재합니다."
+msgstr "진행중인 플랜이 존재합니다."
+
+#: core/ajtodo_projectplan.php:419
+msgid "플랜 추가"
+msgstr "플랜 추가"
+
+#: core/ajtodo_projectplan.php:426 core/ajtodo_projectplan.php:498
+#: core/ajtodo_projectplan.php:534 core/ajtodo_projectplan.php:639
+#: core/ajtodo_projectplan.php:661
+msgid "플랜 이름"
+msgstr "플랜 이름"
+
+#: core/ajtodo_projectplan.php:427
+msgid "총할일수"
+msgstr "총할일수"
+
+#: core/ajtodo_projectplan.php:428
+msgid "진행 상황"
+msgstr "진행 상황"
+
+#: core/ajtodo_projectplan.php:431 core/ajtodo_projectplan.php:435
+msgid "목표 완료일"
+msgstr "목표 완료일"
+
+#: core/ajtodo_projectplan.php:434
+msgid "남은 일수"
+msgstr "남은 일수"
+
+#: core/ajtodo_projectplan.php:458 core/ajtodo_projectplan.php:462
+#: skins/basic/js_templates.php:24
+msgid "미완료"
+msgstr "미완료"
+
+#: core/ajtodo_projectplan.php:507 core/ajtodo_projectplan.php:542
+msgid "플랜 목표 설명"
+msgstr "플랜 목표 설명"
+
+#: core/ajtodo_projectplan.php:525 core/ajtodo_projectplan.php:566
+msgid "목표완료일"
+msgstr "목표완료일"
+
+#: core/ajtodo_projectplan.php:576
+msgid "플랜 수정"
+msgstr "플랜 수정"
+
+#: core/ajtodo_projectplan.php:578
+msgid "플랜 완료"
+msgstr "플랜 완료"
+
+#: core/ajtodo_projectplan.php:581
+msgid "플랜 삭제"
+msgstr "플랜 삭제"
+
+#: core/ajtodo_projectplan.php:583
+msgid "플랜 생성"
+msgstr "플랜 생성"
+
+#: core/ajtodo_projectplan.php:585
+msgid "플랜 목록"
+msgstr "플랜 목록"
+
+#: core/ajtodo_projectplan.php:640
+msgid "이 플랜을  완료제하시겠습니까?"
+msgstr "이 플랜을  완료제하시겠습니까?"
+
+#: core/ajtodo_projectplan.php:644
+msgid "플랜에 존재하는 미 완료 할일들은 모두 '완료 처리' 됩니다."
+msgstr "플랜에 존재하는 미 완료 할일들은 모두 '완료 처리' 됩니다."
+
+#: core/ajtodo_projectplan.php:646 skins/basic/views.php:137
+msgid "예, 완료합니다."
+msgstr "예, 완료합니다."
+
+#: core/ajtodo_projectplan.php:662
+msgid "이 플랜을  삭제하시겠습니까?"
+msgstr "이 플랜을  삭제하시겠습니까?"
+
+#: core/ajtodo_projectplan.php:666
+msgid "플랜에 존재하는 할일들은 모두 '플랜  없음'이 됩니다."
+msgstr "플랜에 존재하는 할일들은 모두 '플랜  없음'이 됩니다."
+
+#: core/ajtodo_projectplan.php:667
+msgid "플랜에 포함된 할일이 삭제되는 것은 아닙니다."
+msgstr "플랜에 포함된 할일이 삭제되는 것은 아닙니다."
+
+#: core/ajtodo_projectrole.php:25
+msgid "프로젝트 관리"
+msgstr "프로젝트 관리"
+
+#: core/ajtodo_projectrole.php:53
+msgid "권한"
+msgstr "권한"
+
+#: core/ajtodo_projectstatus.php:43 core/ajtodo_projectstatus.php:329
+#: core/ajtodo_projectstatus.php:342
+msgid "상태 목록"
+msgstr "상태 목록"
+
+#: core/ajtodo_projectstatus.php:45
+msgid "상태 추가"
+msgstr "상태 추가"
+
+#: core/ajtodo_projectstatus.php:62
+msgid "작업전 상태"
+msgstr "작업전 상태"
+
+#: core/ajtodo_projectstatus.php:63
+msgid "작업중 상태"
+msgstr "작업중 상태"
+
+#: core/ajtodo_projectstatus.php:64
+msgid "작업완료 상태"
+msgstr "작업완료 상태"
+
+#: core/ajtodo_projectstatus.php:75
+msgid "상태"
+msgstr "상태"
+
+#: core/ajtodo_projectstatus.php:76 core/ajtodo_projectstatus.php:294
+msgid "상태 범주"
+msgstr "상태 범주"
+
+#: core/ajtodo_projectstatus.php:77
+msgid "상태 변경 및 가능한 역할"
+msgstr "상태 변경 및 가능한 역할"
+
+#: core/ajtodo_projectstatus.php:97
+msgid "규칙 관리"
+msgstr "규칙 관리"
+
+#: core/ajtodo_projectstatus.php:179
+msgid "상태 키가 중복됩니다. "
+msgstr "상태 키가 중복됩니다. "
+
+#: core/ajtodo_projectstatus.php:262
+msgid "프로젝트 상태 수정"
+msgstr "프로젝트 상태 수정"
+
+#: core/ajtodo_projectstatus.php:264
+msgid "프로젝트 상태 추가"
+msgstr "프로젝트 상태 추가"
+
+#: core/ajtodo_projectstatus.php:272
+msgid "상태 아이콘"
+msgstr "상태 아이콘"
+
+#: core/ajtodo_projectstatus.php:279
+msgid "상태 Key"
+msgstr "상태 Key"
+
+#: core/ajtodo_projectstatus.php:349
+msgid " - 규칙 관리"
+msgstr " - 규칙 관리"
+
+#: core/ajtodo_projectstatus.php:354
+msgid "상태 변경"
+msgstr "상태 변경"
+
+#: core/ajtodo_projectstatus.php:355
+msgid "상태 변경이 가능한 역할"
+msgstr "상태 변경이 가능한 역할"
+
+#: core/ajtodo_projectstatus.php:416
+msgid "이 상태를 삭제하시겠습니까?"
+msgstr "이 상태를 삭제하시겠습니까?"
+
+#: core/ajtodo_projectstatus.php:418
+msgid "이 상태의 할일 개수"
+msgstr "이 상태의 할일 개수"
+
+#: core/ajtodo_projectstatus.php:422
+msgid "이 상태의 할일들을 어떤 상태로 변경할까요?"
+msgstr "이 상태의 할일들을 어떤 상태로 변경할까요?"
+
+#: core/ajtodo_projecttodotype.php:39
+msgid "할일 타입 추가"
+msgstr "할일 타입 추가"
+
+#: core/ajtodo_projecttodotype.php:78 core/ajtodo_projecttodotype.php:191
+#: core/ajtodo_projecttodotype.php:276
+msgid "할일 타입 이름"
+msgstr "할일 타입 이름"
+
+#: core/ajtodo_projecttodotype.php:80
+msgid "기본 사용"
+msgstr "기본 사용"
+
+#: core/ajtodo_projecttodotype.php:93
+msgid "기본"
+msgstr "기본"
+
+#: core/ajtodo_projecttodotype.php:152
+msgid "할일 타입 Key"
+msgstr "할일 타입 Key"
+
+#: core/ajtodo_projecttodotype.php:161 inc/ajtodo_js.php:7
+msgid "영문자와 숫자 그리고 일부 특수기호만 가능합니다."
+msgstr "영문자와 숫자 그리고 일부 특수기호만 가능합니다."
+
+#: core/ajtodo_projecttodotype.php:167
+msgid "기본으로 사용"
+msgstr "기본으로 사용"
+
+#: core/ajtodo_projecttodotype.php:172 core/ajtodo_projecttodotype.php:176
+msgid "이 상태를 기본으로 사용합니다."
+msgstr "이 상태를 기본으로 사용합니다."
+
+#: core/ajtodo_projecttodotype.php:177
+msgid "현재 기본 할일 타입 : "
+msgstr "현재 기본 할일 타입 : "
+
+#: core/ajtodo_projecttodotype.php:184
+msgid "타입 색상"
+msgstr "타입 색상"
+
+#: core/ajtodo_projecttodotype.php:199
+msgid "할일 타입 목록"
+msgstr "할일 타입 목록"
+
+#: core/ajtodo_projecttodotype.php:231
+msgid "할일 타입 키가 중복됩니다. "
+msgstr "할일 타입 키가 중복됩니다. "
+
+#: core/ajtodo_projecttodotype.php:277
+msgid "이 할일 타입를 삭제하시겠습니까?"
+msgstr "이 할일 타입를 삭제하시겠습니까?"
+
+#: core/ajtodo_projecttodotype.php:281
+msgid "할일 타입에 존재하는 할일들은 모두 '할일 타입 없음'이 됩니다."
+msgstr "할일 타입에 존재하는 할일들은 모두 '할일 타입 없음'이 됩니다."
+
+#: core/ajtodo_projecttodotype.php:282
+msgid "할일 타입에 포함된 할일이 삭제되는 것은 아닙니다."
+msgstr "할일 타입에 포함된 할일이 삭제되는 것은 아닙니다."
+
+#: core/ajtodo_role.php:13
+msgid "팀 프로젝트 생성"
+msgstr "팀 프로젝트 생성"
+
+#: core/ajtodo_role.php:14
+msgid "팀 프로젝트를 생성할 수 있습니다."
+msgstr "팀 프로젝트를 생성할 수 있습니다."
+
+#: core/ajtodo_role.php:18
+msgid "팀 프로젝트 삭제"
+msgstr "팀 프로젝트 삭제"
+
+#: core/ajtodo_role.php:19
+msgid "팀 프로젝트를 삭제할 수 있습니다."
+msgstr "팀 프로젝트를 삭제할 수 있습니다."
+
+#: core/ajtodo_role.php:23
+msgid "팀 프로젝트 종료"
+msgstr "팀 프로젝트 종료"
+
+#: core/ajtodo_role.php:24
+msgid "팀 프로젝트를 종료할 수 있습니다."
+msgstr "팀 프로젝트를 종료할 수 있습니다."
+
+#: core/ajtodo_role.php:28
+msgid "팀 프로젝트 목록 보기"
+msgstr "팀 프로젝트 목록 보기"
+
+#: core/ajtodo_role.php:29
+msgid "프로젝트 톡록을 열람할 수 있습니다."
+msgstr "프로젝트 톡록을 열람할 수 있습니다."
+
+#: core/ajtodo_role.php:33
+msgid "개인 프로젝트 사용"
+msgstr "개인 프로젝트 사용"
+
+#: core/ajtodo_role.php:34
+msgid "개인 프로젝트 기능을 사용할 수 있습니다."
+msgstr "개인 프로젝트 기능을 사용할 수 있습니다."
+
+#: core/ajtodo_todo.php:197
+msgid "정보를 가져올 수 없습니다."
+msgstr "정보를 가져올 수 없습니다."
+
+#: core/ajtodo_todo.php:222 core/ajtodo_todo.php:269
+msgid "변경되었습니다."
+msgstr "변경되었습니다."
+
+#: core/ajtodo_todo.php:225 core/ajtodo_todo.php:272
+msgid "업데이트 중에 문제가 발생했습니다."
+msgstr "업데이트 중에 문제가 발생했습니다."
+
+#: core/ajtodo_todo.php:325
+msgid "할일이 추가되었습니다."
+msgstr "할일이 추가되었습니다."
+
+#: core/ajtodo_todo.php:328
+msgid "생성 도중에 문제가 발생했습니다."
+msgstr "생성 도중에 문제가 발생했습니다."
+
+#: core/ajtodo_todo.php:359
+msgid "삭제되었습니다."
+msgstr "삭제되었습니다."
+
+#: core/ajtodo_todo.php:362
+msgid "삭제 진행중에 오류가 발생했습니다."
+msgstr "삭제 진행중에 오류가 발생했습니다."
+
+#: inc/ajtodo_admin.php:3
+msgid "AJ TODO"
+msgstr "AJ TODO"
+
+#: inc/ajtodo_admin.php:7
+msgid "설정"
+msgstr "설정"
+
+#: inc/ajtodo_doc_table.php:36
+msgid "발행됨"
+msgstr "발행됨"
+
+#: inc/ajtodo_doc_table.php:37
+msgid "임시글"
+msgstr "임시글"
+
+#: inc/ajtodo_doc_table.php:38
+msgid "휴지통"
+msgstr "휴지통"
+
+#: inc/ajtodo_doc_table.php:67
+msgid "문서 제목"
+msgstr "문서 제목"
+
+#: inc/ajtodo_doc_table.php:68
+msgid "관련 항목"
+msgstr "관련 항목"
+
+#: inc/ajtodo_doc_table.php:70
+msgid "발행일"
+msgstr "발행일"
+
+#: inc/ajtodo_doc_table.php:97
+msgid "복원"
+msgstr "복원"
+
+#: inc/ajtodo_doc_table.php:98 inc/ajtodo_doc_table.php:101
+#: inc/ajtodo_doc_table.php:105 inc/ajtodo_doc_table.php:109
+msgid "보기"
+msgstr "보기"
+
+#: inc/ajtodo_doc_table.php:99
+msgid "영구 삭제"
+msgstr "영구 삭제"
+
+#: inc/ajtodo_doc_table.php:107
+msgctxt "verb (ie. trash this post)"
+msgid "휴지통"
+msgstr "휴지통"
+
+#: inc/ajtodo_js.php:6
+msgid "플랜 이름을 입력해주세요."
+msgstr "플랜 이름을 입력해주세요."
+
+#: inc/ajtodo_js.php:8
+msgid "프로젝트 이름을 입력해주세요."
+msgstr "프로젝트 이름을 입력해주세요."
+
+#: inc/ajtodo_js.php:11
+msgid "값을 입력해주세요."
+msgstr "값을 입력해주세요."
+
+#: inc/ajtodo_status_table.php:45
+msgid "기본 여부"
+msgstr "기본 여부"
+
+#: skins/basic/buttons.php:2
+msgid "프로젝트 생성하기"
+msgstr "프로젝트 생성하기"
+
+#: skins/basic/js_templates.php:8
+msgid "중단"
+msgstr "중단"
+
+#: skins/basic/js_templates.php:9
+msgid "시작"
+msgstr "시작"
+
+#: skins/basic/js_templates.php:10
+msgid "완료 목표일"
+msgstr "완료 목표일"
+
+#: skins/basic/js_templates.php:11
+msgid "작성일"
+msgstr "작성일"
+
+#: skins/basic/js_templates.php:15 templates/view_todo.php:115
+msgid "내용 없음"
+msgstr "내용 없음"
+
+#: skins/basic/js_templates.php:18
+msgid "정말 삭제합니까?"
+msgstr "정말 삭제합니까?"
+
+#: skins/basic/js_templates.php:21
+msgid "로딩중..."
+msgstr "로딩중..."
+
+#: skins/basic/js_templates.php:27
+msgid "전체 플랜 보기"
+msgstr "전체 플랜 보기"
+
+#: skins/basic/js_templates.php:30
+msgid "역할 이름을 입력해주세요."
+msgstr "역할 이름을 입력해주세요."
+
+#: skins/basic/views.php:8 skins/basic/views.php:35
+msgid "프로젝트명"
+msgstr "프로젝트명"
+
+#: skins/basic/views.php:11 skins/basic/views.php:38
+msgid "설명"
+msgstr "설명"
+
+#: skins/basic/views.php:12 skins/basic/views.php:39
+msgid "생성일"
+msgstr "생성일"
+
+#: skins/basic/views.php:70
+msgid "내 할일"
+msgstr "내 할일"
+
+#: skins/basic/views.php:71
+msgid "내가 보고한일"
+msgstr "내가 보고한일"
+
+#: skins/basic/views.php:76
+msgid "검색"
+msgstr "검색"
+
+#: skins/basic/views.php:114
+msgid "이 프로젝트를 삭제하시겠습니까?"
+msgstr "이 프로젝트를 삭제하시겠습니까?"
+
+#: skins/basic/views.php:117 skins/basic/views.php:131
+msgid "완료된 할일  개수"
+msgstr "완료된 할일  개수"
+
+#: skins/basic/views.php:119
+msgid "프로젝트에 존재하는 할일들도 모두 같이 삭제됩니다."
+msgstr "프로젝트에 존재하는 할일들도 모두 같이 삭제됩니다."
+
+#: skins/basic/views.php:120
+msgid "삭제 이후에는 되돌릴 수 없습니다."
+msgstr "삭제 이후에는 되돌릴 수 없습니다."
+
+#: skins/basic/views.php:128
+msgid "이 프로젝트를 완료하시겠습니까?"
+msgstr "이 프로젝트를 완료하시겠습니까?"
+
+#: skins/basic/views.php:132
+msgid "완료율"
+msgstr "완료율"
+
+#: skins/basic/views.php:134
+msgid "미완료된 할일들은 모두 완료처리 됩니다."
+msgstr "미완료된 할일들은 모두 완료처리 됩니다."
+
+#: skins/basic/views.php:135
+msgid "나중에도 언제든 다시 활성화할 수 있습니다."
+msgstr "나중에도 언제든 다시 활성화할 수 있습니다."
+
+#: templates/view_todo.php:18
+msgid "등록일시"
+msgstr "등록일시"
+
+#: templates/view_todo.php:20
+msgid "완료일시"
+msgstr "완료일시"
+
+#: templates/view_todo.php:40 templates/view_todo.php:59
+msgid "지정안됨"
+msgstr "지정안됨"
+
+#: templates/view_todo.php:101
+msgid "할일 타입 없음"
+msgstr "할일 타입 없음"
+
+#. Plugin Name of the plugin/theme
+msgid "AJ Todo"
+msgstr "AJ Todo"
+
+#. Description of the plugin/theme
+msgid "Powerfull Project Management Plugin"
+msgstr "Powerfull Project Management Plugin"
+
+#. Author of the plugin/theme
+msgid "AJ Bang"
+msgstr "AJ Bang"
+
+#. Author URI of the plugin/theme
+msgid "https://2p1d.com"
+msgstr "https://2p1d.com"
+
+#~ msgid "상태 변경시 자동으로 사라지기"
+#~ msgstr "상태 변경시 자동으로 사라지기"
+
+#~ msgid "현재 필터링에 따라 자동으로 사라지기"
+#~ msgstr "현재 필터링에 따라 자동으로 사라지기"
+
+#~ msgid "할일 체크 방식"
+#~ msgstr "할일 체크 방식"
+
+#~ msgid "할일 -> 완료"
+#~ msgstr "할일 -> 완료"
+
+#~ msgid "할일 -> 진행중 -> 완료"
+#~ msgstr "할일 -> 진행중 -> 완료"
+
+#~ msgid "할일 상태에서 체크할 경우 변경될 진행중 상태 선택"
+#~ msgstr "할일 상태에서 체크할 경우 변경될 진행중 상태 선택"
+
+#~ msgid "완료된 할일 체크 박스 클릭시"
+#~ msgstr "완료된 할일 체크 박스 클릭시"
+
+#~ msgid "상태로 변경"
+#~ msgstr "상태로 변경"
+
+#~ msgid "진행중인 프로젝트"
+#~ msgstr "진행중인 프로젝트"
+
+#~ msgid "완료된 프로젝트"
+#~ msgstr "완료된 프로젝트"
+
+#~ msgid "아직 시작하지 않은 일입니다."
+#~ msgstr "아직 시작하지 않은 일입니다."
+
+#~ msgid "진행중인 일입니다."
+#~ msgstr "진행중인 일입니다."
+
+#~ msgid "할일들"
+#~ msgstr "할일들"
